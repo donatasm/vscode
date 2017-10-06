@@ -1,0 +1,17 @@
+{
+    "files.eol": "\n",
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 13.3333,
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.codeLens": false,
+    "files.trimTrailingWhitespace": true,
+    "python.pythonPath": "~/VirtualEnv/bin/python",
+    "python.venvPath": "~/VirtualEnv",
+    "python.linting.pep8Enabled": true,
+    "workbench.colorTheme": "Quiet Light",
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#EFEFEF"
+    }
+}
